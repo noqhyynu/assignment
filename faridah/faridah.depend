@@ -1,4 +1,8 @@
 # depslib dependency file v1.0
-1738273887 source:c:\users\molade\desktop\fadh_girl\faridah\main.cpp
+1738312938 source:c:\users\molade\desktop\fadh_girl\faridah\main.cpp
+	<iostream>
+	"main.h"
+
+1738313291 c:\users\molade\desktop\fadh_girl\faridah\main.h
 	<iostream>
 

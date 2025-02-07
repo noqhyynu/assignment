@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738312591 source:c:\users\molade\desktop\fadh_girl\1967\main.cpp
+	<iostream>
+	"main.h"
+
+1738312034 c:\users\molade\desktop\fadh_girl\1967\main.h
+	<iostream>
+
